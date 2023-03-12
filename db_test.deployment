@@ -1,0 +1,8 @@
+{appl_deployment,"db_test",
+ [{appl_spec,"db_dummy_application"},
+  {vsn,"0.1.0"},	
+  {cluster_spec,"prototype_c201"},
+  {num_instances,1 },
+  {affinity,["c201"]}	
+ ]
+}.

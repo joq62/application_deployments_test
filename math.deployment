@@ -1,0 +1,8 @@
+{appl_deployment,"math",
+ [{appl_spec,"math"},
+  {vsn,"0.1.0"},	
+  {cluster_spec,"c200_c201"},
+  {num_instances,2 },
+  {affinity,any_host}	
+ ]
+}.
