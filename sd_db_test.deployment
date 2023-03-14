@@ -1,0 +1,8 @@
+{appl_deployment,"sd_db_test",
+ [{appl_spec,"sd"},
+  {vsn,"0.1.0"},	
+  {cluster_spec,"cluster_test"},
+  {num_instances,1 },
+  {affinity,each_pod}	
+ ]
+}.
